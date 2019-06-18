@@ -1,0 +1,47 @@
+{
+  "title": "个人遇到的问题总结",
+  "description": "",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "structure": {
+      "readme": "README.md"
+  },
+  "plugins": [
+      "theme-api",
+      "expandable-chapters-small",
+      "expandable-chapters",
+      "chapter-fold",
+      "-sharing",
+      "-lunr",
+      "-search",
+      "search-pro",
+      "advanced-emoji",
+      "emphasize",
+      "sectionx",
+      "simple-page-toc",
+      "ancre-navigation",
+      "flexible-alerts",
+      "pageview-count",
+      "auto-scroll-table"
+  ],
+  "pluginsConfig": {
+      "anchor-navigation-ex": {
+          "showLevel": false
+      },
+      "theme-api": {
+          "split": true
+      },
+      "simple-page-toc": {
+          "maxDepth": 3,
+          "skipFirstH1": true
+      },
+      "flexible-alerts": {
+          "style": "callout",
+          "comment": {
+              "label": "提示",
+              "icon": "fa fa-hand-o-right",
+              "className": "info"
+          }
+      }
+  }
+}
