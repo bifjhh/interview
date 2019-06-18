@@ -1,5 +1,6 @@
-# 这个记录帖子起止日期为准备离职---到我找到工作
-- [在线预览](http://www.bifjhh.com/interview/_book/index.html)
+# 记录的目的 
+- 起止日期为准备离职---直至找到工作
+- 在线预览地址[点击查看](http://www.bifjhh.com/interview/_book/index.html)
 
 ### 主要记录内容
 1. 参加面试的时间 
